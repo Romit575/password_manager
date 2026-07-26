@@ -1,0 +1,22 @@
+# ==============================================
+# Password Manager - Python Dependencies
+# ==============================================
+# Install with: pip install -r requirements.txt
+
+# GUI Framework (modern, styled Tkinter wrapper)
+customtkinter==5.2.2
+
+# Password hashing (for user login credentials)
+bcrypt==4.2.0
+
+# Symmetric encryption for stored vault passwords (Fernet)
+cryptography==43.0.1
+
+# Clipboard support for "Copy Password" / "Copy Generated Password"
+pyperclip==1.9.0
+
+# Image handling for icons/logo used inside CustomTkinter widgets
+pillow==12.3.0
+
+# Note: sqlite3 is part of the Python standard library and does NOT
+# need to be installed separately.

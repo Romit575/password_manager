@@ -1,0 +1,24 @@
+2026-07-26 12:34:54,761 | INFO     | __main__ | Starting Password Manager...
+2026-07-26 12:34:54,769 | INFO     | database.database | Connected to database at R:\password_manager\password_manager\vault.db
+2026-07-26 12:34:54,794 | INFO     | database.database | Database schema is ready.
+2026-07-26 12:34:54,795 | INFO     | encryption.key_manager | Generated new encryption key at R:\password_manager\password_manager\encryption\secret.key
+2026-07-26 12:38:46,295 | INFO     | auth.register | Registered new user 'romit1108'
+2026-07-26 12:39:01,922 | WARNING  | auth.login | Failed login attempt for username 'romit'
+2026-07-26 12:39:25,321 | WARNING  | auth.login | Failed login attempt for username 'romitpatel1108@gmail.com'
+2026-07-26 12:39:27,512 | WARNING  | auth.login | Failed login attempt for username 'romitpatel1108@gmail.com'
+2026-07-26 12:39:27,774 | WARNING  | auth.login | Failed login attempt for username 'romitpatel1108@gmail.com'
+2026-07-26 12:39:36,732 | WARNING  | auth.login | Failed login attempt for username 'Romit'
+2026-07-26 12:39:37,304 | WARNING  | auth.login | Failed login attempt for username 'Romit'
+2026-07-26 12:40:51,599 | INFO     | database.database | Database connection closed.
+2026-07-26 12:40:51,600 | INFO     | __main__ | Password Manager closed.
+2026-07-26 12:42:18,685 | INFO     | __main__ | Starting Password Manager...
+2026-07-26 12:42:18,687 | INFO     | database.database | Connected to database at R:\password_manager\password_manager\vault.db
+2026-07-26 12:42:18,688 | INFO     | database.database | Database schema is ready.
+2026-07-26 12:42:31,611 | INFO     | database.database | Database connection closed.
+2026-07-26 12:42:31,611 | INFO     | __main__ | Password Manager closed.
+2026-07-26 12:45:31,851 | INFO     | __main__ | Starting Password Manager...
+2026-07-26 12:45:31,851 | INFO     | database.database | Connected to database at R:\password_manager\password_manager\vault.db
+2026-07-26 12:45:31,852 | INFO     | database.database | Database schema is ready.
+2026-07-26 12:45:44,953 | INFO     | auth.login | User 'romit1108' logged in.
+2026-07-26 12:46:29,240 | INFO     | database.database | Database connection closed.
+2026-07-26 12:46:29,241 | INFO     | __main__ | Password Manager closed.
